@@ -7,8 +7,7 @@ function favouriteMovie(operation, movie) {
     } else if (operation === 'remove') {
         movies.pop();
     }
-    return movies
-        // movies
+    return movies;
 }
 
 
