@@ -7,8 +7,8 @@ function getEven(arr) {
 
         Write you code below
     */
-    var evennums = arr.filter(number => number % 2 == 0);
-    return evennums;
+    var enums = arr.filter(number => number % 2 == 0);
+    return enums;
 
 }
 
